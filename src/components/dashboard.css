@@ -1,0 +1,75 @@
+.ps-rail-x {
+    left: 0px; bottom: 0px;
+}
+.ps-thumb-x {
+    left: 0px; width: 0px;
+}
+.ps-rail-y {
+    top: 0px; right: 0px;
+}
+.ps-thumb-y {
+    top: 0px; height: 0px;
+}
+.left-menu-header {
+    touch-action: none; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.ps-rail-y-left-header {
+    top: 0px; height: 242px; right: 0px;
+}
+.ps-thumb-y-left-header {
+    top: 0px; height: 32px;
+}
+.app-content.content {
+    margin-left: 240px;
+    margin-top: 55px;
+}
+.progress {
+    height: 7px
+}
+.progress-bar {
+    width: 80%
+}
+.chart-card {
+    height: 450px;
+}
+/* header */
+.main-menu.menu-fixed.menu-dark.menu-accordion.menu-shadow {
+    width: 240px;
+}
+
+.left-sidebar-icon {
+    float: left;
+    margin-right: 10px;
+}
+
+svg.feather.feather-mail.ficon.ft-mail {
+    width: 20px !important;
+    height: auto;
+}
+
+svg.feather.feather-bell.ficon.ft-bell {
+    width: 20px !important;
+    height: auto;
+}
+
+svg.feather.feather-maximize.ficon.ft-maximize {
+    width: 18px !important;
+    height: auto;
+}
+
+svg.feather.feather-search.ficon.ft-search {
+    width: 18px !important;
+    height: auto;
+}
+
+.card-clock {
+    display:inline;width:130px;height:130px;
+}
+
+.card-clock-canvas {
+    width: 69px; height: 43px; position: absolute; vertical-align: middle; margin-top: 43px; margin-left: -99px; border: 0px; background: none; font: bold 26px Arial; text-align: center; color: rgb(186, 191, 199); padding: 0px; -webkit-appearance: none; display: none;
+}
+
+.icon-card {
+    width: 69px; height: 43px; position: absolute; vertical-align: middle; margin-top: 43px; margin-left: -99px; border: 0px; background: none; font: normal 26px Arial; text-align: center; color: rgb(186, 191, 199); padding: 0px; -webkit-appearance: none;font-size: 43px;
+}

@@ -1,0 +1,33 @@
+.pace-progress{
+    transform: translate3d(100%, 0px, 0px);
+}
+
+.login-content {
+    margin-left: 0px !important
+}
+
+svg.feather.feather-user.ft-user{
+    width: 18px !important;
+    height: auto;
+}
+
+svg.feather.feather-key.fa.fa-key {
+    width: 18px !important;
+    height: auto;
+}
+
+svg.feather.feather-unlock.ft-unlock {
+    width: 18px !important;
+    height: auto;
+}
+
+.hidden {
+  opacity: 0;
+}
+.margin: {
+  margin-right: 50px;
+}
+
+.index {
+  z-index: 3
+}

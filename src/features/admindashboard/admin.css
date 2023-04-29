@@ -1,0 +1,8 @@
+.main-menu.menu-dark .navigation > li > a {
+    padding: 10px 30px 10px 14px;
+    
+}
+
+.main-menu.menu-dark .navigation > li .active {
+    border-left: 4px solid #00B5B8;
+}

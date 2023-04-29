@@ -1,0 +1,57 @@
+/* span.switchery.switchery-large.switchery-default {
+    background-color: rgb(255, 255, 255); border-color: rgb(223, 223, 223); box-shadow: rgb(223, 223, 223) 0px 0px 0px 0px inset; transition: border 0.4s ease 0s, box-shadow 0.4s ease 0s;
+}
+
+small {
+    left: 0px; transition: background-color 0.4s ease 0s, left 0.2s ease 0s;
+} */
+
+/* .machineswitch{
+    display: none;
+} */
+
+.customtab {
+  border-radius: 0.4rem !important
+}
+.machine-card-header {
+    background-color: #404E67 !important;
+}
+
+h4#heading-switchery {
+    color: #ffffff !important;
+}
+
+.switch-heading {
+    top: 20px !important;
+}
+
+.timer-card {
+}
+
+.topbar-ul {
+    margin-bottom: 20px !important;
+}
+
+.actText {
+    background-color: green !important
+}
+
+.nonActText {
+  background-color: #FF7588 !important
+}
+
+.card-link {
+  margin: 2px;
+  padding: 0.45rem 1.4rem !important;
+}
+
+.centerAlign {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.disp-block {
+  display: block;
+  padding-left: 0px;
+}

@@ -1,0 +1,52 @@
+.machine-card-header {
+    background-color: #404E67 !important;
+    border-top-right-radius: 7px !important;
+    border-top-left-radius: 7px !important;
+}
+
+h4#heading-switchery {
+    color: #ffffff !important;
+}
+
+.buttn {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.btn-elements {
+
+    position: absolute;
+    top: -5px;
+    right: 5px;
+}
+
+/* CSS Added by Divye */
+.rounded-card {
+  border-radius: 7px !important;
+}
+
+.LinkText {
+
+}
+
+.centerAlign {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinclass: {
+  display: flex;
+  margin-top: 40vh;
+  width: 5rem !important;
+  height: 5rem !important;
+  justify-content: center;
+
+
+}
+
+.spinnercontainer {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

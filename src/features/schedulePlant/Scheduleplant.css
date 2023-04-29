@@ -1,0 +1,34 @@
+.scheduleHeader {
+  font-weight: bold;
+}
+
+.icons {
+  height: 18px;
+  margin-right: 1.5rem;
+}
+
+.dialog {
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-top: 40px;
+}
+
+.element-spacing {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.spacing {
+  padding-bottom: 100px;
+}
+
+.formfont {
+  font-weight: bold;
+  color: white;
+}
+
+.header-color {
+  background: #2CCDE2 !important;
+  color: 'headercolor';
+}
